@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<locations>
+	<location id="0" name="House">
+		<description>It's a dirty house.</description>
+		<item>0</item>
+		<item>3</item>
+	</location>
+</locations>
